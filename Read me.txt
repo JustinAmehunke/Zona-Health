@@ -1,0 +1,9 @@
+Note to Benson -Backend Nerd
+
+
+How the calendar for the appointment should work
+
+-On the doctor's dashbord, doctors shuld set their schedule
+- the Make Appointment Calendar should be displayed based on the chosn doctor's free time basd on his set schedule
+- As the user switch between the doctors in the drop down menu, he can see the calendar 
+shoud display their free schedue for the patient.
