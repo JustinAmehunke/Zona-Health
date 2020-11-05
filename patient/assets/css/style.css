@@ -1016,7 +1016,7 @@ pre {
 /* Navbar */
 .navbar {
   border-radius: 0;
-  background: #009efb;
+  background: #207ef7;
   border-bottom: 1px solid rgba(0, 0, 0, .1);
   padding: 0 30px;
 }
@@ -1027,7 +1027,7 @@ pre {
 }
 
 .ms-navbar .ms-nav-link {
-  padding:
+  /* padding: */
 }
 
 .ms-aside-toggler,
@@ -1206,7 +1206,7 @@ body:not(.ms-aside-left-open) .ms-aside-toggler .ms-toggler-bar {
 
 .ms-aside-left-open .ms-aside-left.side-nav {
   transform: translateX(0);
-  background-color: #009efb;
+  background-color: #207ef7;
 }
 
 .ms-aside-left-open .body-content {
@@ -1221,7 +1221,7 @@ body:not(.ms-aside-left-open) .ms-aside-toggler .ms-toggler-bar {
   list-style-type: none;
   list-style: none;
   padding-left: 0;
-  background:#009efb;
+  background:#207ef7;
 }
 
 .ms-nav-item form.ms-add-task-block .form-control {
@@ -1233,7 +1233,7 @@ body:not(.ms-aside-left-open) .ms-aside-toggler .ms-toggler-bar {
 /* ,
 .side-nav .menu-item ul */
   {
-  background-color: #009efb;
+  background-color: #207ef7;
 }
 
 .side-nav .menu-item ul {
